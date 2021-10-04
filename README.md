@@ -2,6 +2,15 @@
 
 This is the demo studio exemplifying the various patterns of page building and structured content universes in a talk at Sanitys virtual meetup in september of 2021.
 
+## Howto
+Install dependencies `npm i` or `yarn` and  re-init this project with
+
+```
+sanity init
+```
+
+Then run with `sanity start` and open http://localhost:3333
+
 https://www.meetup.com/meetup-group-dvjyRJdV/events/280669291/
 
 ## Sanity.io
